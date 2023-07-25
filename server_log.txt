@@ -1,0 +1,874 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:53:11] 
+[00:53:11] Server Plugins
+[00:53:11] --------------
+[00:53:11]  Loaded 0 plugins.
+
+[00:53:11] 
+[00:53:11] Filterscripts
+[00:53:11] ---------------
+[00:53:11]   Loaded 0 filterscripts.
+
+[00:53:11] Loaded 3 vehicles from: vehicles/trains.txt
+[00:53:11] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:53:11] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:53:11] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:53:11] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:53:11] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:53:11] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:53:11] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:53:11] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:53:11] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:53:11] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:53:11] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:53:11] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:53:11] Loaded 168 vehicles from: vehicles/bone.txt
+[00:53:11] Loaded 61 vehicles from: vehicles/flint.txt
+[00:53:11] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:53:11] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:53:11] Total vehicles from files: 1781
+[00:53:11] 
+---------------------------------------
+[00:53:11] Running Grand Larceny - by the SA-MP team
+
+[00:53:11] ---------------------------------------
+
+[00:53:11] Number of vehicle models: 173
+[00:54:07] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:54:10] 
+[00:54:10] Server Plugins
+[00:54:10] --------------
+[00:54:10]  Loaded 0 plugins.
+
+[00:54:10] 
+[00:54:10] Filterscripts
+[00:54:10] ---------------
+[00:54:10]   Loaded 0 filterscripts.
+
+[00:54:10] Loaded 3 vehicles from: vehicles/trains.txt
+[00:54:10] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:54:10] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:54:10] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:54:10] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:54:10] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:54:10] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:54:10] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:54:10] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:54:10] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:54:10] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:54:10] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:54:10] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:54:10] Loaded 168 vehicles from: vehicles/bone.txt
+[00:54:10] Loaded 61 vehicles from: vehicles/flint.txt
+[00:54:10] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:54:10] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:54:10] Total vehicles from files: 1781
+[00:54:10] 
+---------------------------------------
+[00:54:10] Running Grand Larceny - by the SA-MP team
+
+[00:54:10] ---------------------------------------
+
+[00:54:10] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:24:13] 
+[09:24:13] Server Plugins
+[09:24:13] --------------
+[09:24:13]  Loaded 0 plugins.
+
+[09:24:13] 
+[09:24:13] Filterscripts
+[09:24:13] ---------------
+[09:24:13]   Loaded 0 filterscripts.
+
+[09:24:13] Loaded 3 vehicles from: vehicles/trains.txt
+[09:24:13] Loaded 3 vehicles from: vehicles/pilots.txt
+[09:24:13] Loaded 15 vehicles from: vehicles/lv_law.txt
+[09:24:13] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[09:24:13] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[09:24:13] Loaded 38 vehicles from: vehicles/sf_law.txt
+[09:24:13] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[09:24:13] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[09:24:13] Loaded 24 vehicles from: vehicles/ls_law.txt
+[09:24:13] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[09:24:13] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[09:24:13] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[09:24:13] Loaded 71 vehicles from: vehicles/whetstone.txt
+[09:24:13] Loaded 168 vehicles from: vehicles/bone.txt
+[09:24:13] Loaded 61 vehicles from: vehicles/flint.txt
+[09:24:13] Loaded 96 vehicles from: vehicles/tierra.txt
+[09:24:13] Loaded 96 vehicles from: vehicles/red_county.txt
+[09:24:13] Total vehicles from files: 1781
+[09:24:13] 
+---------------------------------------
+[09:24:13] Running Grand Larceny - by the SA-MP team
+
+[09:24:13] ---------------------------------------
+
+[09:24:13] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:53:46] 
+[09:53:46] Server Plugins
+[09:53:46] --------------
+[09:53:46]  Loading plugin: sscanf
+[09:53:48] 
+
+[09:53:48]  ===============================
+
+[09:53:48]       sscanf plugin loaded.     
+
+[09:53:48]          Version:  2.8.3        
+
+[09:53:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:53:48]  ===============================
+
+[09:53:48]   Loaded.
+[09:53:48]  Loaded 1 plugins.
+
+[09:53:48] 
+[09:53:48] Filterscripts
+[09:53:48] ---------------
+[09:53:48]   Loaded 0 filterscripts.
+
+[09:53:48] Loaded 3 vehicles from: vehicles/trains.txt
+[09:53:48] Loaded 3 vehicles from: vehicles/pilots.txt
+[09:53:48] Loaded 15 vehicles from: vehicles/lv_law.txt
+[09:53:48] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[09:53:48] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[09:53:48] Loaded 38 vehicles from: vehicles/sf_law.txt
+[09:53:48] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[09:53:48] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[09:53:48] Loaded 24 vehicles from: vehicles/ls_law.txt
+[09:53:48] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[09:53:48] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[09:53:48] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[09:53:48] Loaded 71 vehicles from: vehicles/whetstone.txt
+[09:53:48] Loaded 168 vehicles from: vehicles/bone.txt
+[09:53:48] Loaded 61 vehicles from: vehicles/flint.txt
+[09:53:48] Loaded 96 vehicles from: vehicles/tierra.txt
+[09:53:48] Loaded 96 vehicles from: vehicles/red_county.txt
+[09:53:48] Total vehicles from files: 1781
+[09:53:48] 
+---------------------------------------
+[09:53:48] Running Grand Larceny - by the SA-MP team
+
+[09:53:48] ---------------------------------------
+
+[09:53:48] Number of vehicle models: 173
+[09:56:29] --- Server Shutting Down.
+[09:56:29] 
+
+[09:56:29]  ===============================
+
+[09:56:29]      sscanf plugin unloaded.    
+
+[09:56:29]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:16] 
+[10:06:16] Server Plugins
+[10:06:16] --------------
+[10:06:16]  Loading plugin: sscanf
+[10:06:16] 
+
+[10:06:16]  ===============================
+
+[10:06:16]       sscanf plugin loaded.     
+
+[10:06:16]          Version:  2.8.3        
+
+[10:06:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:16]  ===============================
+
+[10:06:16]   Loaded.
+[10:06:16]  Loaded 1 plugins.
+
+[10:06:16] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:06:16] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:21] 
+[10:06:21] Server Plugins
+[10:06:21] --------------
+[10:06:21]  Loading plugin: sscanf
+[10:06:21] 
+
+[10:06:21]  ===============================
+
+[10:06:21]       sscanf plugin loaded.     
+
+[10:06:21]          Version:  2.8.3        
+
+[10:06:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:21]  ===============================
+
+[10:06:21]   Loaded.
+[10:06:21]  Loaded 1 plugins.
+
+[10:06:21] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:06:21] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:06:22] 
+[10:06:22] Server Plugins
+[10:06:22] --------------
+[10:06:22]  Loading plugin: sscanf
+[10:06:22] 
+
+[10:06:22]  ===============================
+
+[10:06:22]       sscanf plugin loaded.     
+
+[10:06:22]          Version:  2.8.3        
+
+[10:06:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:06:22]  ===============================
+
+[10:06:22]   Loaded.
+[10:06:22]  Loaded 1 plugins.
+
+[10:06:22] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:06:22] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:18] 
+[10:07:18] Server Plugins
+[10:07:18] --------------
+[10:07:18]  Loading plugin: sscanf
+[10:07:18] 
+
+[10:07:18]  ===============================
+
+[10:07:18]       sscanf plugin loaded.     
+
+[10:07:18]          Version:  2.8.3        
+
+[10:07:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:07:18]  ===============================
+
+[10:07:18]   Loaded.
+[10:07:18]  Loaded 1 plugins.
+
+[10:07:18] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:07:18] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:20] 
+[10:07:20] Server Plugins
+[10:07:20] --------------
+[10:07:20]  Loading plugin: sscanf
+[10:07:20] 
+
+[10:07:20]  ===============================
+
+[10:07:20]       sscanf plugin loaded.     
+
+[10:07:20]          Version:  2.8.3        
+
+[10:07:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:07:20]  ===============================
+
+[10:07:20]   Loaded.
+[10:07:20]  Loaded 1 plugins.
+
+[10:07:20] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:07:20] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:08:11] 
+[10:08:11] Server Plugins
+[10:08:11] --------------
+[10:08:11]  Loading plugin: sscanf
+[10:08:11] 
+
+[10:08:11]  ===============================
+
+[10:08:11]       sscanf plugin loaded.     
+
+[10:08:11]          Version:  2.8.3        
+
+[10:08:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:08:11]  ===============================
+
+[10:08:11]   Loaded.
+[10:08:11]  Loaded 1 plugins.
+
+[10:08:11] 
+[10:08:11] Filterscripts
+[10:08:11] ---------------
+[10:08:11]   Loaded 0 filterscripts.
+
+[10:08:11] 
+----------------------------------
+[10:08:11]       This is my first script  
+[10:08:11] ----------------------------------
+
+[10:08:11] Number of vehicle models: 0
+[10:09:51] --- Server Shutting Down.
+[10:09:51] 
+
+[10:09:51]  ===============================
+
+[10:09:51]      sscanf plugin unloaded.    
+
+[10:09:51]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:10:03] 
+[10:10:03] Server Plugins
+[10:10:03] --------------
+[10:10:03]  Loading plugin: sscanf
+[10:10:03] 
+
+[10:10:03]  ===============================
+
+[10:10:03]       sscanf plugin loaded.     
+
+[10:10:03]          Version:  2.8.3        
+
+[10:10:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:10:03]  ===============================
+
+[10:10:03]   Loaded.
+[10:10:03]  Loaded 1 plugins.
+
+[10:10:03] 
+[10:10:03] Filterscripts
+[10:10:03] ---------------
+[10:10:03]   Loaded 0 filterscripts.
+
+[10:10:03] 
+----------------------------------
+[10:10:03]       This is my first script  
+[10:10:03] ----------------------------------
+
+[10:10:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:12:14] 
+[10:12:14] Server Plugins
+[10:12:14] --------------
+[10:12:14]  Loading plugin: sscanf
+[10:12:14] 
+
+[10:12:14]  ===============================
+
+[10:12:14]       sscanf plugin loaded.     
+
+[10:12:14]          Version:  2.8.3        
+
+[10:12:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:12:14]  ===============================
+
+[10:12:14]   Loaded.
+[10:12:14]  Loaded 1 plugins.
+
+[10:12:14] 
+[10:12:14] Filterscripts
+[10:12:14] ---------------
+[10:12:14]   Loaded 0 filterscripts.
+
+[10:12:14] 
+----------------------------------
+[10:12:14]       This is my first script  
+[10:12:14] ----------------------------------
+
+[10:12:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:13:37] 
+[10:13:37] Server Plugins
+[10:13:37] --------------
+[10:13:37]  Loading plugin: sscanf
+[10:13:37] 
+
+[10:13:37]  ===============================
+
+[10:13:37]       sscanf plugin loaded.     
+
+[10:13:37]          Version:  2.8.3        
+
+[10:13:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:13:37]  ===============================
+
+[10:13:37]   Loaded.
+[10:13:37]  Loaded 1 plugins.
+
+[10:13:37] 
+[10:13:37] Filterscripts
+[10:13:37] ---------------
+[10:13:37]   Loaded 0 filterscripts.
+
+[10:13:37] 
+----------------------------------
+[10:13:37]       This is my first script  
+[10:13:37] ----------------------------------
+
+[10:13:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:34] filterscripts = ""  (string)
+[10:14:34] 
+[10:14:34] Server Plugins
+[10:14:34] --------------
+[10:14:34]  Loading plugin: sscanf
+[10:14:34] 
+
+[10:14:34]  ===============================
+
+[10:14:34]       sscanf plugin loaded.     
+
+[10:14:34]          Version:  2.8.3        
+
+[10:14:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:14:34]  ===============================
+
+[10:14:34]   Loaded.
+[10:14:34]  Loaded 1 plugins.
+
+[10:14:34] 
+[10:14:34] Filterscripts
+[10:14:34] ---------------
+[10:14:34]   Loaded 0 filterscripts.
+
+[10:14:34] 
+----------------------------------
+[10:14:34]       This is my first script  
+[10:14:34] ----------------------------------
+
+[10:14:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:21] filterscripts = ""  (string)
+[10:15:21] 
+[10:15:21] Server Plugins
+[10:15:21] --------------
+[10:15:21]  Loading plugin: sscanf
+[10:15:21] 
+
+[10:15:21]  ===============================
+
+[10:15:21]       sscanf plugin loaded.     
+
+[10:15:21]          Version:  2.8.3        
+
+[10:15:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:15:21]  ===============================
+
+[10:15:21]   Loaded.
+[10:15:21]  Loaded 1 plugins.
+
+[10:15:21] 
+[10:15:21] Filterscripts
+[10:15:21] ---------------
+[10:15:21]   Loaded 0 filterscripts.
+
+[10:15:21] 
+----------------------------------
+[10:15:21]       This is my first script  
+[10:15:21] ----------------------------------
+
+[10:15:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:20:06] filterscripts = ""  (string)
+[10:20:06] 
+[10:20:06] Server Plugins
+[10:20:06] --------------
+[10:20:06]  Loading plugin: sscanf
+[10:20:06] 
+
+[10:20:06]  ===============================
+
+[10:20:06]       sscanf plugin loaded.     
+
+[10:20:06]          Version:  2.8.3        
+
+[10:20:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:20:06]  ===============================
+
+[10:20:06]   Loaded.
+[10:20:06]  Loaded 1 plugins.
+
+[10:20:06] 
+[10:20:06] Filterscripts
+[10:20:06] ---------------
+[10:20:06]   Loaded 0 filterscripts.
+
+[10:20:06] 
+----------------------------------
+[10:20:06]       This is my first script  
+[10:20:06] ----------------------------------
+
+[10:20:06] Number of vehicle models: 0
+[10:20:46] [connection] 127.0.0.1:52977 requests connection cookie.
+[10:20:47] [connection] incoming connection: 127.0.0.1:52977 id: 0
+[10:20:47] [join] king has joined the server (0:127.0.0.1)
+[10:21:41] [part] king has left the server (0:1)
+[10:22:15] [connection] 127.0.0.1:57963 requests connection cookie.
+[10:22:16] [connection] incoming connection: 127.0.0.1:57963 id: 0
+[10:22:16] [join] king has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:44:09] filterscripts = ""  (string)
+[10:44:09] 
+[10:44:09] Server Plugins
+[10:44:09] --------------
+[10:44:09]  Loading plugin: sscanf
+[10:44:09] 
+
+[10:44:09]  ===============================
+
+[10:44:09]       sscanf plugin loaded.     
+
+[10:44:09]          Version:  2.8.3        
+
+[10:44:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:44:09]  ===============================
+
+[10:44:09]   Loaded.
+[10:44:09]  Loaded 1 plugins.
+
+[10:44:09] 
+[10:44:09] Filterscripts
+[10:44:09] ---------------
+[10:44:09]   Loaded 0 filterscripts.
+
+[10:44:09] Script[gamemodes/New.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[10:44:09] Failed to load 'gamemodes/New.amx' script.
+[10:44:09] Number of vehicle models: 0
+[10:44:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:51:20] filterscripts = ""  (string)
+[10:51:20] 
+[10:51:20] Server Plugins
+[10:51:20] --------------
+[10:51:20]  Loading plugin: sscanf
+[10:51:20] 
+
+[10:51:20]  ===============================
+
+[10:51:20]       sscanf plugin loaded.     
+
+[10:51:20]          Version:  2.8.3        
+
+[10:51:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:51:20]  ===============================
+
+[10:51:20]   Loaded.
+[10:51:20]  Loaded 1 plugins.
+
+[10:51:20] 
+[10:51:20] Filterscripts
+[10:51:20] ---------------
+[10:51:20]   Loaded 0 filterscripts.
+
+[10:51:20] 
+----------------------------------
+[10:51:20]       This is my first script  
+[10:51:20] ----------------------------------
+
+[10:51:20] Number of vehicle models: 0
+[10:51:42] [connection] 127.0.0.1:52990 requests connection cookie.
+[10:51:43] [connection] incoming connection: 127.0.0.1:52990 id: 0
+[10:51:43] [join] king has joined the server (0:127.0.0.1)
+[10:52:50] RCON (In-Game): Player #0 (king) has logged in.
+[10:52:56] RCON (In-Game): Player [king] sent command: sfx
+[10:53:01] RCON (In-Game): Player [king] sent command: gfx
+[10:53:29] RCON (In-Game): Player [king] sent command: gfx 1234
+[10:54:57] RCON (In-Game): Player [king] sent command: gmx
+[10:55:09] 
+----------------------------------
+[10:55:09]       This is my first script  
+[10:55:09] ----------------------------------
+
+[10:55:09] Number of vehicle models: 0
+[10:55:55] RCON (In-Game): Player [king] sent command: gmx
+[10:56:07] 
+----------------------------------
+[10:56:07]       This is my first script  
+[10:56:07] ----------------------------------
+
+[10:56:07] Number of vehicle models: 0
+[11:00:39] RCON (In-Game): Player [king] sent command: gmx
+[11:00:51] 
+----------------------------------
+[11:00:51]       This is my first script  
+[11:00:51] ----------------------------------
+
+[11:00:51] Number of vehicle models: 0
+[11:01:51] RCON (In-Game): Player [king] sent command: gmx
+[11:02:03] 
+----------------------------------
+[11:02:03]       This is my first script  
+[11:02:03] ----------------------------------
+
+[11:02:03] Number of vehicle models: 0
+[11:03:03] RCON (In-Game): Player [king] sent command: gmx
+[11:03:15] 
+----------------------------------
+[11:03:15]       This is my first script  
+[11:03:15] ----------------------------------
+
+[11:03:15] Number of vehicle models: 0
+[11:14:25] RCON (In-Game): Player [king] sent command: gmx
+[11:14:37] 
+----------------------------------
+[11:14:37]       This is my first script  
+[11:14:37] ----------------------------------
+
+[11:14:37] Number of vehicle models: 0
+[11:15:15] RCON (In-Game): Player [king] sent command: gmx
+[11:15:27] 
+----------------------------------
+[11:15:27]       This is my first script  
+[11:15:27] ----------------------------------
+
+[11:15:27] Number of vehicle models: 0
+[11:16:59] RCON (In-Game): Player [king] sent command: gmx
+[11:17:11] 
+----------------------------------
+[11:17:11]       This is my first script  
+[11:17:11] ----------------------------------
+
+[11:17:11] Number of vehicle models: 0
+[11:21:24] RCON (In-Game): Player [king] sent command: gmx
+[11:21:36] 
+----------------------------------
+[11:21:36]       This is my first script  
+[11:21:36] ----------------------------------
+
+[11:21:36] Number of vehicle models: 0
+[11:23:37] RCON (In-Game): Player [king] sent command: gmx
+[11:23:49] 
+----------------------------------
+[11:23:49]       This is my first script  
+[11:23:49] ----------------------------------
+
+[11:23:49] Number of vehicle models: 0
+[11:26:12] RCON (In-Game): Player [king] sent command: gmx
+[11:26:24] 
+----------------------------------
+[11:26:24]       This is my first script  
+[11:26:24] ----------------------------------
+
+[11:26:24] Number of vehicle models: 0
+[11:28:12] RCON (In-Game): Player [king] sent command: gmx
+[11:28:24] 
+----------------------------------
+[11:28:24]       This is my first script  
+[11:28:24] ----------------------------------
+
+[11:28:24] Number of vehicle models: 0
+[11:30:57] RCON (In-Game): Player [king] sent command: gmx
+[11:31:09] 
+----------------------------------
+[11:31:09]       This is my first script  
+[11:31:09] ----------------------------------
+
+[11:31:09] Number of vehicle models: 0
+[11:32:58] RCON (In-Game): Player [king] sent command: gmx
+[11:33:10] 
+----------------------------------
+[11:33:10]       This is my first script  
+[11:33:10] ----------------------------------
+
+[11:33:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:24:14] filterscripts = ""  (string)
+[12:24:14] 
+[12:24:14] Server Plugins
+[12:24:14] --------------
+[12:24:14]  Loading plugin: sscanf
+[12:24:14] 
+
+[12:24:14]  ===============================
+
+[12:24:14]       sscanf plugin loaded.     
+
+[12:24:14]          Version:  2.8.3        
+
+[12:24:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:24:14]  ===============================
+
+[12:24:14]   Loaded.
+[12:24:14]  Loaded 1 plugins.
+
+[12:24:14] 
+[12:24:14] Filterscripts
+[12:24:14] ---------------
+[12:24:14]   Loaded 0 filterscripts.
+
+[12:24:14] 
+----------------------------------
+[12:24:14]       This is my first script  
+[12:24:14] ----------------------------------
+
+[12:24:14] Number of vehicle models: 0
+[12:24:15] --- Server Shutting Down.
+[12:24:15] 
+
+[12:24:15]  ===============================
+
+[12:24:15]      sscanf plugin unloaded.    
+
+[12:24:15]  ===============================
+
